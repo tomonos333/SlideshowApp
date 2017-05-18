@@ -318,6 +318,7 @@
 				6D1231151ECB2DF100B1F00F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
